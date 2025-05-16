@@ -1,0 +1,4 @@
+Rosas son rojas
+Violetas son azules
+El código es divertido
+Excepto cuando tiene bugs
