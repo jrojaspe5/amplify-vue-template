@@ -1,0 +1,1 @@
+Amazon Bedrock facilita la ejecución de aplicaciones en contenedores con alta seguridad y escalabilidad.
