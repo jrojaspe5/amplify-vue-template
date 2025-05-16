@@ -1,0 +1,1 @@
+Amazon Bedrock es un servicio de AWS que permite ejecutar aplicaciones en contenedores. Ofrece alta seguridad, escalabilidad y rendimiento.
